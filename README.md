@@ -1,4 +1,4 @@
-# Numerical-PDE and Monte-Carlo 
+# Numerical-HJB-PDE and Monte-Carlo 
 This repo contains replication code for Wang and Forsyth(2010) and Cong and Oosterlee(2016)
 
 Solve the continuous-time portfolio optimization using HJB equations or Monte-Carlo simulation.
